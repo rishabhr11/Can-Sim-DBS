@@ -1,0 +1,3 @@
+DEBUG_MODE = 1
+APP_NAME = "IGT CAN Simulator"
+VERSION = "0.0.0"
